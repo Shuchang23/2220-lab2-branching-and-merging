@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5054d8ce-ec99-479d-8a3d-e3474d590c6a" name="Changes" comment="fix bug" />
+    <list default="true" id="5054d8ce-ec99-479d-8a3d-e3474d590c6a" name="Changes" comment="fix conflict" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,7 +13,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="alice" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -50,7 +50,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "alice",
+    "git-widget-placeholder": "task__3",
     "kotlin-language-version-configured": "true",
     "nodejs_package_manager_path": "npm"
   }
@@ -78,6 +78,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="fix bug" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix bug" />
+    <MESSAGE value="fix conflict" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix conflict" />
   </component>
 </project>
